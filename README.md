@@ -1,4 +1,4 @@
-A finance firm want to automate the loan eligibility procedure based on the information supplied by the customer while filling out an application form. Gender, marital status, education, number of dependents, income, loan amount, credit history, and other characteristics are included. To automate this process, they created a problem to identify client categories that are eligible for loan amounts so that they may target these consumers precisely.
+A finance firm wantsto automate the loan eligibility procedure based on the information supplied by the customer while filling out an application form. Gender, marital status, education, number of dependents, income, loan amount, credit history, and other characteristics are included. To automate this process, they created a problem to identify client categories that are eligible for loan amounts so that they may target these consumers precisely.
 
 About Data:
 Loan_ID: Id of the user(All Unique)
